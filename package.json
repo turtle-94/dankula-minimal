@@ -1,0 +1,29 @@
+{
+  "name": "dankula-minimal",
+  "displayName": "dankula-minimal",
+  "description": "Minimal theme based on dankula",
+  "version": "0.0.1",
+  "publisher": "turtle94",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "minimal",
+    "darcula",
+    "intellij",
+    "dankula",
+    "alabaster"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dankula Minimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dankula Minimal-color-theme.json"
+      }
+    ]
+  }
+}
