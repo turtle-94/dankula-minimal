@@ -2,7 +2,7 @@
   "name": "dankula-minimal",
   "displayName": "dankula-minimal",
   "description": "Minimal theme based on dankula",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "turtle94",
   "engines": {
     "vscode": "^1.79.0"

@@ -1096,5 +1096,17 @@
 				"foreground": "#cccccc"
 			}
 		},
+		{
+			"scope": "variable.language.special.self.python",
+			"settings": {
+				"foreground": "#cccccc"
+			}
+		},
+		{
+			"scope": "entity.other.inherited-class.python",
+			"settings": {
+				"foreground": "#cccccc"
+			}
+		},
 	]
 }
