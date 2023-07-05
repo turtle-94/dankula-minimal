@@ -2,7 +2,7 @@
   "name": "dankula-minimal",
   "displayName": "dankula-minimal",
   "description": "Minimal theme based on dankula",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "turtle94",
   "engines": {
     "vscode": "^1.79.0"
@@ -17,6 +17,10 @@
     "dankula",
     "alabaster"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turtle-94/dankula-minimal"
+  },
   "contributes": {
     "themes": [
       {

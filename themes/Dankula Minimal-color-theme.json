@@ -1108,5 +1108,11 @@
 				"foreground": "#cccccc"
 			}
 		},
+		{
+			"scope": "support.function.builtin.python",
+			"settings": {
+				"foreground": "#cccccc"
+			}
+		},
 	]
 }
